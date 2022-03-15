@@ -1,0 +1,6 @@
+.container {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 0 20px;
+    background-color: hsl(228deg 22% 95% / 80%);
+}
